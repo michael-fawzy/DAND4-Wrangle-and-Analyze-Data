@@ -1,4 +1,4 @@
-# Ford GoBike System Data Exploration
+# Wrangle and Analyze Data
 
 ## by Michael F. H. Georgy
 
